@@ -20,7 +20,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,firebase,flask,git,github,mysql,netlify,opencv,py,qt,tailwind,threejs,unity,blender,ae"/>
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,c,cpp,cs,firebase,flask,git,github,mysql,netlify,opencv,py,qt,tailwind,threejs,unity,blender,ae"/>
   </a>
 </p>
 
