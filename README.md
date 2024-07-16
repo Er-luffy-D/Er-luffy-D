@@ -7,13 +7,13 @@
 <br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado<br>🌐 Currently diving deep into modern web and machine learning.<br>🌱 I’m currently learning Flask .<br>💬 Ask me anything related to tech , development and other stuff.<br>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:<br><br>
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Er-luffy-d&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<br><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Er-luffy-d&theme=dark&hide_border=false">
-<br><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Er-luffy-d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-luffy-d&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Er-luffy-d&show_icons=true&theme=vision-friendly-dark">
+  <img width="415" height="200" src = "https://github-readme-streak-stats.herokuapp.com/?user=Er-luffy-d&hide_border=false&theme=vision-friendly-dark">
 </p>
 
 
