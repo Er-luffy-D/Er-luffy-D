@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-luffy-d" alt="Er-luffy-d" /> </p>
 
 ## 💫 About Me:
-<br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado<br>🌐 Currently diving deep into modern web and machine learning.<br>🌱 I’m currently learning Flask .<br>💬 Ask me anything related to tech , development and other stuff.<br>
+<br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado<br>🌐 Currently diving deep into modern web and machine learning.<br>🌱 I’m currently working on discord bot.<br>💬 Ask me anything related to tech , development and other stuff.<br>
 
 
 # 📊 GitHub Stats:<br><br>
