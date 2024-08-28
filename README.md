@@ -5,6 +5,8 @@
 
 ## 💫 About Me:
 <br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado<br>🌐 Currently diving deep into modern web and machine learning.<br>🌱 I’m currently working on discord bot.<br>💬 Ask me anything related to tech , development and other stuff.<br>
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Er-luffy-D)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 📊 GitHub Stats:<br><br>
