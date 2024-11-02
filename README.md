@@ -56,5 +56,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-dixit-062080293)
 [![Gmail Badge](https://img.shields.io/badge/-02jan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02jan06@gmail.com)](mailto:02jan06@gmail.com)
+<hr>
+
+[![An image of @erluffyd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erluffyd)](https://holopin.io/@erluffyd)
 
 
