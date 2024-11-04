@@ -1,12 +1,26 @@
 # Hello, I'm [Piyush Dixit!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h2>Love to play games || Love to code || Love to watch anime.</h2> <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-luffy-d" alt="Er-luffy-d" /> </p>
 
+
 ## 💫 About Me:
-<br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado<br>🌐 Currently diving deep into modern web and machine learning.<br>🌱 I’m currently working on discord bot.<br>💬 Ask me anything related to tech , development and other stuff.<br>
-<br>
+
+
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<p align="left">
+<br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
+<br><br>🌐 Currently diving deep into modern web and machine learning.
+<br><br>🌱 I’m currently working on discord bot.
+<br><br>💬 Ask me anything related to tech , development and other stuff.<br>
+</p>
+<br><br>
+
+## 🏆Trophy
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Er-luffy-D)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # 📊 GitHub Stats:<br><br>
@@ -56,6 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-dixit-062080293)
 [![Gmail Badge](https://img.shields.io/badge/-02jan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02jan06@gmail.com)](mailto:02jan06@gmail.com)
+
 <hr>
 
 [![An image of @erluffyd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erluffyd)](https://holopin.io/@erluffyd)
