@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left">
-<br>🌟 Frontend Developer | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
+<br>🌟 Frontend Developer | Deep learning | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
 <br><br>🌐 Currently diving deep into modern web and machine learning.
 <br><br>🌱 I’m currently working on discord bot.
 <br><br>💬 Ask me anything related to tech , development and other stuff.<br>
