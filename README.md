@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Er-luffy-d&show_icons=true&theme=vision-friendly-dark">
-  <img width="415" height="200" src = "https://github-readme-streak-stats.herokuapp.com/?user=Er-luffy-d&hide_border=false&theme=vision-friendly-dark">
+ 
 </p>
 
 
