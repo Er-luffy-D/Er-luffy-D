@@ -12,7 +12,7 @@
 <p align="left">
 <br>🌟 Frontend Developer | Deep learning | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
 <br><br>🌐 Currently diving deep into modern web and machine learning.
-<br><br>🌱 I’m currently working on discord bot.
+<br><br>🌱 I’m currently learning NEXT JS.
 <br><br>💬 Ask me anything related to tech , development and other stuff.<br>
 </p>
 <br><br>
