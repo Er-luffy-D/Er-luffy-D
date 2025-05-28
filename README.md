@@ -1,6 +1,5 @@
 # Hello, I'm [Piyush Dixit!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h2>Love to play games || Love to code || Love to watch anime.</h2> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-luffy-d" alt="Er-luffy-d" /> </p>
 
