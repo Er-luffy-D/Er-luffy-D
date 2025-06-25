@@ -1,20 +1,16 @@
-# Hello, I'm [Piyush Dixit!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# Hello, I'm Piyush Dixit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-luffy-d" alt="Er-luffy-d" /> </p>
 
 
 ## 💫 About Me:
-
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left">
-<br>🌟 Frontend Developer | Deep learning | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
-<br><br>🌐 Currently diving deep into modern web and machine learning.
-<br><br>🌱 I’m currently learning NEXT JS.
+<br>🌟 Full Stack Developer | Deep learning | AR/VR Enthusiast | Data Structures & Algorithms Aficionado
+<br><br>🌱  currently working with NEXT JS , Building @SimplifAI.
 <br><br>💬 Ask me anything related to tech , development and other stuff.<br>
 </p>
-<br><br>
+<br>
 
 ## 🏆Trophy
   
